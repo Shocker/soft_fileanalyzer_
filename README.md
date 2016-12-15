@@ -5,3 +5,6 @@ With AnalyzeIt you can inspect any file to find extra information about it. You 
 - There is a special section for information about analyzed executables: ImageBase, EntryPoint, CheckSum, Import and Export table, PE Directories [Resource, Exceptions, Reloc, Debug Datas, Description, Global PTR, TLS table, Local Config, Bound Import] and PE Sections with specific info: Name, RVA-Relative Virtual Address, Virtual Size, RAW Offset-File offset, RAW Size, Characteristics.
 - It can also detect what packer/cryptor/compressor/compiler processed the executable.
 - There is also a function to detect the OEP [Original Entry Point] of a packed executable
+
+## Screenshots
+<img src="https://raw.githubusercontent.com/Shocker/soft_fileanalyzer_/master/screenshots/executable.png" width="200" /> <img src="https://raw.githubusercontent.com/Shocker/soft_fileanalyzer_/master/screenshots/content.png" width="200" /> <img src="https://raw.githubusercontent.com/Shocker/soft_fileanalyzer_/master/screenshots/extension.png" width="200" />
